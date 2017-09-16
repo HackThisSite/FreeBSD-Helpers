@@ -23,5 +23,5 @@ The context header within a helper script or configuration may look like this:
 ```
 # Version: 1.0.0
 # Context: ANY                 Can be used in host OS or jails
-# (Read more: https://github.com/HackThisCode/FreeBSD-Helpers/blob/master/CONTEXT.md )
+# (Read more: https://hackthiscode.github.io/FreeBSD-Helpers/context/ )
 ```
