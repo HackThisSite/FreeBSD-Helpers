@@ -8,18 +8,18 @@
 #
 #################################################################################
 # HackThisSite FreeBSD Helpers
-# https://github.com/HackThisCode/FreeBSD-Helpers
+# https://github.com/HackThisSite/FreeBSD-Helpers
 #
 # webhook rc.d script
 # > For use with webhook: https://github.com/adnanh/webhook
 #
-# Version: 1.0.0
+# Version: 1.0.1
 # Context: ANY                 Can be used in host OS or jails
-# (Read more: https://hackthiscode.github.io/FreeBSD-Helpers/context/ )
+# (Read more: https://hackthissite.github.io/FreeBSD-Helpers/context/ )
 #################################################################################
 # MIT License
 #
-# Copyright (c) 2017 HackThisSite
+# Copyright (c) 2018 HackThisSite
 #
 # Permission is hereby granted, free of charge, to any person obtaining a copy
 # of this software and associated documentation files (the "Software"), to deal
